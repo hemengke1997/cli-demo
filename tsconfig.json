@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "declaration": false,
+    "declarationMap": false,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "strict": true,
+    "sourceMap": false,
+    "skipLibCheck": true,
+    "target": "es2015",
+    "jsx": "react"
+  },
+  "exclude": ["**/node_modules", "**/examples", "**/dist"]
+}
